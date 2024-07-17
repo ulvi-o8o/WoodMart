@@ -1,0 +1,36 @@
+{
+  "data": [
+    {
+      "id": 1,
+      "url": "https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-indoor-plants-small-4-1-430x491.jpg.webp",
+      "colors": "",
+      "title": "Anthurium – King of hearts",
+      "stars": "4",
+      "price": "$79.00"
+    },
+    {
+      "id": 2,
+      "url": "https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-indoor-plants-small-5-1-430x491.jpg.webp",
+      "colors": "",
+      "title": "Bromeliad Vriesea",
+      "stars": "4",
+      "price": "$88.00"
+    },
+    {
+      "id": 3,
+      "url": "https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-indoor-plants-small-12-1-430x491.jpg.webp",
+      "colors": "",
+      "title": "Bromoliad Antonia Pink",
+      "stars": "4",
+      "price": "$69.00"
+    },
+    {
+      "id": 4,
+      "url": "https://woodmart.xtemos.com/plants/wp-content/uploads/sites/12/2023/05/w-indoor-plants-medium-4-1-430x491.jpg.webp",
+      "colors": "",
+      "title": "Corkscrew Croton",
+      "stars": "4",
+      "price": "$70.00"
+    }
+  ]
+}
